@@ -3,7 +3,7 @@ print('hello')
 for i in range(1,15+1):
     if i%3==0:
         print('fizz')
-    if i%5==0:
+    elif i%5==0:
         print('buzz')
-    else :
+    else:
         print(i)
