@@ -1,8 +1,8 @@
 # branch-practice
 
-##Prerequisites
+## Prerequisites
 
-##How to start
+## How to start
 ```shell
 $ git clone {repository address}
 $ cd {repository's name}
@@ -14,10 +14,11 @@ $ vi README.md
 $ touch main.py
 
 $ vi main.py
+```
 
-##Installation
+## Installation
 
-##Features
+## Features
 
-##Credit
+## Credit
 Soy-Bin
